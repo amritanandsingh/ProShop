@@ -64,7 +64,7 @@ This course is not just about documentation; it's a practical, hands-on experien
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your/repo.git`
+1. Clone the repository: `git clone https://github.com/amritanandsingh/ProShop.git`
 
 2. Install the required dependencies for both the client and server:
    ```
