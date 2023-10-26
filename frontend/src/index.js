@@ -2,8 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import 'bootstrap/dist/css/bootstrap.min.css'
-
+//import 'bootstrap/dist/css/bootstrap.min.css' // this is default bootstrap css 
+import './assets/styles/index.css'; 
+import './assets/styles/bootstrap.custom.css';  // this is custom CSS 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
